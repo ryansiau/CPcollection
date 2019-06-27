@@ -1,0 +1,1 @@
+Contains solution of "SPOJ" problems
